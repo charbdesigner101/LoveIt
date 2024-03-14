@@ -1,0 +1,15 @@
+paths:
+  data: data
+  collections: content
+  includes: layouts
+  layouts: layouts
+  static: static
+  uploads: static/uploads
+  source: ''
+  archetypes: archetypes
+  assets: assets
+  content: content
+  pages: content
+  publish: public
+  config: ''
+timezone: Etc/UTC
