@@ -12,4 +12,5 @@ paths:
   pages: content
   publish: public
   config: ''
+data_config: {}
 timezone: Etc/UTC
